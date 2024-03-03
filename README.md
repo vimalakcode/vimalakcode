@@ -10,7 +10,7 @@ I am <a href="https://www.linkedin.com/in/vimalaak/">Vimala</a>, a 📈Digital M
   <img src="https://profile-counter.glitch.me/vimalakcode/count.svg?"  />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">I work with:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
