@@ -3,7 +3,8 @@
 
 
 <h2>Hi there 👋</h2>  
-I am <a href="https://www.linkedin.com/in/vimalaak/">Vimala</a>, a 📈Digital Marketer(Tag Management and Analytics) and currently passionate about learning coding to enhance my skill set🎯.
+I am <a href="https://www.linkedin.com/in/vimalaak/">Vimala</a>, a 📈Digital Marketer(Tag Management and Analytics) and currently passionate about learning coding to enhance my skill set🎯. 
+Feel free to check my repository.
 
 <h3 align="left">Profile Views:</h3>
 <div align="left">
